@@ -28,8 +28,9 @@ If you find this code useful in your research, please, consider citing our paper
 
 ### Related work
 
-If you are interested in learning more about the optimization with discriminative clustering, check : 
-Miech, Antoine and Alayrac, Jean-Baptiste and Bojanowski, Piotr and Laptev, Ivan and Sivic, Josef, Learning from video and text via large-scale discriminative clustering, [paper][https://arxiv.org/abs/1707.09074],[code](https://github.com/antoine77340/iccv17learning)
+If you are interested in learning more about the optimization with discriminative clustering, check :
+ 
+Miech, Antoine and Alayrac, Jean-Baptiste and Bojanowski, Piotr and Laptev, Ivan and Sivic, Josef, Learning from video and text via large-scale discriminative clustering ([paper](https://arxiv.org/abs/1707.09074),[code](https://github.com/antoine77340/iccv17learning))
 
 ### Contents
 
