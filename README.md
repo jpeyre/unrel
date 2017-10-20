@@ -10,7 +10,6 @@ Julia Peyre, Ivan Laptev, Cordelia Schmid, Josef Sivic, Weakly-supervised learni
 
 The webpage for this project is available [here](http://www.di.ens.fr/willow/research/unrel/), with a link to the [paper](http://www.di.ens.fr/willow/research/unrel/paper.pdf) and [UnRel dataset](http://www.di.ens.fr/willow/research/unrel/data/unrel-dataset.tar.gz). 
 
-
 ### License
 
 The code and dataset are available for research purpose. Check the LICENSE file for details. 
@@ -26,6 +25,11 @@ If you find this code useful in your research, please, consider citing our paper
 >   year        = "2017"
 >}
 
+
+### Related work
+
+If you are interested in learning more about the optimization with discriminative clustering, check : 
+Miech, Antoine and Alayrac, Jean-Baptiste and Bojanowski, Piotr and Laptev, Ivan and Sivic, Josef, Learning from video and text via large-scale discriminative clustering, [paper][https://arxiv.org/abs/1707.09074],[code](https://github.com/antoine77340/iccv17learning)
 
 ### Contents
 
